@@ -15,7 +15,7 @@ Build Time Analyzer is a macOS app that shows you a break down of Swift build ti
 
 Open up the app and follow the instructions.
 
-![screenshot.png](https://raw.githubusercontent.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode/master/Screenshots/screenshot.png)
+![screenshot.png](https://raw.githubusercontent.com/naoto0n2/BuildTimeAnalyzer-for-Xcode/master/Screenshots/screenshot.png)
 
 ## Installation
 
